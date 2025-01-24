@@ -12,4 +12,5 @@ cd /jupyter/work
 python3 -m venv .venv
 source .venv/bin/activate
 python3 -m pip install ipykernel [other-packages]
-python3 -m ipykernel install --prefix=/jupyter/work --name=venvkernel```
+python3 -m ipykernel install --prefix=/jupyter/work --name=venvkernel
+```
